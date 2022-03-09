@@ -9,7 +9,7 @@ pkg update && pkg pkg upgrade
 
 pkg install git
 
-git clone 
+git clone https://github.com/SngYu/AutoDeface
 
 cd AutoDeface
 
